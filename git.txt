@@ -8,3 +8,8 @@ git push -u origin master
 …or push an existing repository from the command line
 git remote add origin https://github.com/DaVaHa/JupyterNotebooks.git
 git push -u origin master
+
+
+## run notebook
+# pip install --upgrade ipython jupyter
+jupyter notebook
