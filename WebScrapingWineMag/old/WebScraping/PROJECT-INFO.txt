@@ -1,0 +1,57 @@
+
+
+=> console PythonAnywhere:
+
+cd mysite
+zip -r scraped2.zip *.csv
+
+=> extract into /home/Daniel/Desktop/Scripts/DataCamp/WebScraping/
+
+=> run merge_csv.py
+
+
+TODO:
+- project description (podcast & paper)
+- Output to file/dictionary/DataFrame?
+- podcast:
+
+
+
+TITLE : Do expensive wines taste better?
+
+TEXT:
+
+There is even an organization dedicated to "wine economic". Not kidding!
+https://www.wine-economics.org/about/
+
+Paper:
+http://www.wine-economics.org/aawe/wp-content/uploads/2012/10/AAWE_WP16.pdf
+
+
+
+While we don't pretend to write academic papers on this, we are going to do a practical test to see if it holds up by scraping data from www.winemag.com.
+
+Freakonomics podcast.
+http://freakonomics.com/podcast/freakonomics-radio-do-more-expensive-wines-taste-better/
+
+
+
+STEPS
+
+
+
+-
+- Build spider object
+- Scrape first page
+- Follow through
+- Combine data
+- Data cleaning (drop duplicates, dropna, text to numeric, drop price > 1000)
+
+- Editors have average ratings?
+
+- Visualize interesting data
+- Answer question
+
+
+
+

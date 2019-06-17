@@ -1,0 +1,80 @@
+DataCamp:
+
+Web Scraping (DataCamp courses/projects):
+"""
+Hi,
+
+Please see below for the requested info and my motivation for this proposal:
+
+Proposed title: 
+What are the most popular courses (or projects) on DataCamp?
+
+Learning outcomes : 
+Scraping data from a website, data cleaning & visualization
+(Used libraries BeautifulSoup/Scrapy, Pandas & Matplotlib)
+
+Dataset : DataCamp's own website!
+
+Motivation:
+I created the notebook in attachment (MostPopularDataCampCourse.ipynb) based on a Python script I already had for a long time. I used BeautifulSoup, but as DataCamp doesn't have a course on this, I could modify the notebook so it uses Scrapy. I have a similar notebook on my GitHub for DataCamp projects, so this is also possible. 
+
+For me, it was a fun introduction to web scraping, and using data from DataCamp's own website seems to me to be highly interesting for DataCamp users.
+
+Obviously, I am open for changes and suggestions, so please let me know what you think of this.
+
+I have many ideas for other projects, but this is one I could deliver very fast.
+
+Thanks in advance & kind regards,
+Daniel
+"""
+
+
+
+""" ### DATACAMP (2.) ###
+Hello, Daniel,
+
+Congratulations! You have been selected to continue the application process to become a DataCamp project instructor.
+
+The next step in the process is to get a better sense of what content you would like to cover your project and how you might go about getting it into a DataCamp format. Please note that while your project idea to use DataCamp's own website as the dataset is fun, we'd like you to choose a more universally-appealing dataset. Please choose another topic/dataset for your project idea.
+
+Please complete this Google Form within by Monday, April 1st.
+
+Upon submission, the DataCamp Curriculum team will review your Google Form results within the next week. 
+
+If your project idea is selected, you will be asked to complete a project audition, which is comprised of filling out a Jupyter Notebook template with a sample of the code and narrative you intend to use in your project.
+
+If you have questions, please email projects@datacamp.com.
+
+Good luck!
+The DataCamp Curriculum Team
+"""
+
+
+
+
+""" ### DATACAMP AUDITION (3.) ###
+Hi, Daniel,
+ 
+Thank you for submitting your DataCamp project idea. 
+
+The next step in the application process for becoming a DataCamp project instructor is to fill out the project audition template. Please fork this public GitHub repository and complete the notebook titled audition.ipynb. The template contains instructions and is intended to be self-explanatory. Note: the content in this audition can be reused in the live version of the project if your project application is accepted.
+ 
+Please complete the audition template and email the link to your forked repo to projects@datacamp.com with the email subject line DataCamp project audition by Monday, April 8th.
+
+Please contact projects@datacamp.com if you have any questions.
+ 
+Sincerely,
+The DataCamp Curriculum Team
+"""
+
+
+
+
+
+
+
+
+
+
+
+

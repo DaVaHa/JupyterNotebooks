@@ -1,0 +1,13 @@
+
+
+Intro: Do expensive wines taste better?,
+Inspect HTML,
+Create Spider,
+Parse overview page,
+Parse detail page,
+Export data to CSV,
+Import CSV into DataFrame,
+Clean data,
+Visualize data,
+Answer question
+

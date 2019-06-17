@@ -1,0 +1,21 @@
+echo "# JupyterNotebooks" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin https://github.com/DaVaHa/JupyterNotebooks.git
+git push -u origin master
+
+…or push an existing repository from the command line
+git remote add origin https://github.com/DaVaHa/JupyterNotebooks.git
+git push -u origin master
+
+
+# go back to old commit
+git log -5 # to show latest 5 commmits  # press 'q' to exit
+git reset <commit>  # git reset 7639db71fb46dc11c8e99f357669b062d06ef
+
+
+
+## run notebook
+# pip install --upgrade ipython jupyter
+jupyter notebook

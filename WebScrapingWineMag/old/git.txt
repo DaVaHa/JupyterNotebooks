@@ -1,0 +1,14 @@
+Web Scraping tutorial
+---------------------
+
+git clone https://github.com/datacamp/projects-instructor-application-python.git
+git remote add webscraping https://github.com/DaVaHa/WebScrapingProjectTutorial.git
+git push -u webscraping master
+
+- Show remotes (origin = remote_location of source repository)
+git remote -v
+
+
+
+
+
